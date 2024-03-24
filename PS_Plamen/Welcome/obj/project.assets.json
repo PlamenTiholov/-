@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TU_sem_6\\PS_2024\\PS_2024_Asya\\PS_42_Asya\\Welcome\\Welcome.csproj",
+      "projectUniqueName": "D:\\TU_sem_6\\PS_2024\\PS_2024_Plamen\\PS_Plamen\\Welcome\\Welcome.csproj",
       "projectName": "Welcome",
-      "projectPath": "D:\\TU_sem_6\\PS_2024\\PS_2024_Asya\\PS_42_Asya\\Welcome\\Welcome.csproj",
+      "projectPath": "D:\\TU_sem_6\\PS_2024\\PS_2024_Plamen\\PS_Plamen\\Welcome\\Welcome.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "D:\\TU_sem_6\\PS_2024\\PS_2024_Asya\\PS_42_Asya\\Welcome\\obj\\",
+      "outputPath": "D:\\TU_sem_6\\PS_2024\\PS_2024_Plamen\\PS_Plamen\\Welcome\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
